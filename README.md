@@ -26,7 +26,7 @@ Contains a list of 88 mobile apps that represents the initial pool of apps to ch
 Contains the tests(recorded keystrokes) that were used on each release of each application.
 <br> 
 ### 03 Source code
-Contains the adjusted python experiment scripts for android-runner and the required android-runner config file.
+Contains scripts for android-runner and the required android-runner config file.
 <br>
 ### 04 Figures
 Contains the plots created after running the statistical tests
