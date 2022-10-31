@@ -17,7 +17,7 @@ The purpose is to test how the energy consumption of Kotlin applications changes
 
 
 ### Reproduction
-This repository consists of subfolders that allow the replication of the project. Each subfolder contains its own readme file that provides a description on the requirements and usage. If only interested in replicating the data analysis the subfolder 00 Data and 05 Analysis are sufficient.
+This repository consists of subfolders that allow the replication of the project. Each subfolder contains its own readme file that provides a description on the requirements and usage. If only interested in replicating the data analysis the subfolder 01 Data and 04 Analysis are sufficient.
 <br> 
 ### 01 Data
 Contains a list of 88 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
