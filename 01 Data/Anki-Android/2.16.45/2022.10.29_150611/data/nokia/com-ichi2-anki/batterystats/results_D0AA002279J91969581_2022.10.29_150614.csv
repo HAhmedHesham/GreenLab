@@ -1,0 +1,6 @@
+Start Time (Seconds),End Time (Seconds),Duration (Seconds),Component,Energy Consumption (Joule)
+0,78.232,78.232,screen dim,28.9765929992
+0,54.347,54.347,wifi running,0.75100380196
+54.347,59.449,5.101999999999997,wifi scan,1.1624054965999993
+59.449,78.232,18.783,wifi running,0.25955626644000007
+
