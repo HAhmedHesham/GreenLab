@@ -31,5 +31,5 @@ Contains the adjusted python experiment scripts for android-runner and the requi
 ### 04 Figures
 Contains the plots created after running the statistical tests
 <br> 
-### 04 Analysis
+### 05 Analysis
 Contains R scripts to perform statistical tests
