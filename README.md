@@ -1,6 +1,5 @@
 # Evolution of Kotlin apps replication package
-.
-.
+
 ### About
 The purpose is to test how the energy consumption of Kotlin applications changes with time
 
@@ -23,10 +22,10 @@ connection.
 This repository consists of subfolders that allow the replication of the project. Each subfolder contains its own readme file that provides a description on the requirements and usage. If only interested in replicating the data analysis the subfolder 00 Data and 05 Analysis are sufficient.
 
 ### 01 Data
-It contains a list of 88 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
+Contains a list of 88 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
 
 ### 02 Tests
-It contains the tests(recorded keystrokes) that were used on each release of each application.
+Contains the tests(recorded keystrokes) that were used on each release of each application.
 
 ### 03 Experiment
 Contains the adjusted python experiment scripts for android-runner and the required android-runner config file.
