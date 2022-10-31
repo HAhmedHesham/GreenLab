@@ -17,7 +17,7 @@ The purpose is to test how the energy consumption of Kotlin applications changes
 
 
 ### Reproduction
-This repository consists of subfolders that allow the replication of the project. Each subfolder contains its own readme file that provides a description on the requirements and usage. If only interested in replicating the data analysis the subfolder 01 Data and 04 Analysis are sufficient.
+This repository consists of subfolders that allow the replication of the project. Each subfolder contains its own readme file that provides a description on the requirements and usage. If only interested in replicating the data analysis the subfolder 01 Data and 05 Analysis are sufficient.
 <br> 
 ### 01 Data
 Contains a list of 88 mobile apps that represents the initial pool of apps to choose from. Also, it contains the list after applying the inclusion and exclusion criteria. Finally, it contains the data that were collected after each trial of the experiment.
@@ -25,8 +25,11 @@ Contains a list of 88 mobile apps that represents the initial pool of apps to ch
 ### 02 Tests
 Contains the tests(recorded keystrokes) that were used on each release of each application.
 <br> 
-### 03 Experiment
+### 03 Source code
 Contains the adjusted python experiment scripts for android-runner and the required android-runner config file.
+<br>
+### 04 Figures
+Contains the plots created after running the statistical tests
 <br> 
 ### 04 Analysis
 Contains R scripts to perform statistical tests
